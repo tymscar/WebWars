@@ -1,4 +1,4 @@
-<center>![WebWars Logo](http://i.imgur.com/1X9tmLL.png)</center>
+<center>![WebWars Logo](http://i.imgur.com/HdSUDXg.png)</center>
 <center>![Ingame Screenshot](http://i.imgur.com/aZmjRxb.png)</center>
 
 **WebWars is a physics based simulation of two websites fighting.** Have you ever wondered which website is stronger in a 1 vs 1 automated physics based fight? Now you can see that with your own eyes. The main idea of the simulation si two see which one of two websites the player chooses wins in a solo fight. The stats of the fighters are provided by [Majestic](https://majestic.com/) and their api and are tied to the websites they represent. The jump speed, height or force for example are all influenced by the websites stats. The whole game was developed in 24 hours at the [HackTheMidlands](http://hackthemidlands.com/) hackathon in [Birmingham, UK](https://en.wikipedia.org/wiki/Birmingham).
